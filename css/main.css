@@ -2,6 +2,10 @@ html {
   font-family: Merriweather, serif;
 }
 
+.dark-link {
+  color: #113c00;
+}
+
 .color-brand {
   color: #568c36;
 }
